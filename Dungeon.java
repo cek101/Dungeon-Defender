@@ -3,7 +3,7 @@
  * Xavier Ruivivar
  * Christopher Kollias
  *  
- *  */
+ */
 
 import java.util.Scanner;
 import java.util.Random;
@@ -101,8 +101,8 @@ public class Dungeon {
 		
 		System.out.println("\nWell hello adventurer! ");
 		System.out.println("\nA nearby village has enlisted your help in dealing with a Dragon.");
-		System.out.println("Are you brave enough to enter the Dragons dungeon to kill it? ");
-		System.out.println("There will be many monsters in your path. ");
+		System.out.println("Are you brave enough to enter the Dragon's dungeon to kill it? ");
+		System.out.println("There will be monsters in your path. ");
 		System.out.println("Beware the great evil one called " + bossName + " as she kills all who enter. \n "); 
 		
 	}// end welcomeMenu method
